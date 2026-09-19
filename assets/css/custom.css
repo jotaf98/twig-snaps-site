@@ -1,0 +1,22 @@
+
+/* customize bulma's color hues */
+:root {
+  --bulma-text-h: 5deg;
+  --bulma-white-h: 5deg;
+  --bulma-black-h: 5deg;
+  --bulma-light-h: 5deg;
+  --bulma-dark-h: 5deg;
+  --bulma-shadow-h: 5deg;
+  
+  --bulma-primary-h: 25deg;
+  --bulma-link-h: 15deg;
+}
+
+body {
+  background-image: url("../images/background.jpg");
+  background-position: center 40%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
